@@ -17,11 +17,11 @@ object TweeterStreamReaderApp {
     //consumerKey
     twitterCredentials(0) = "gA7xFE3S1QfXVTN55Uuzb";
     //consumerSecret
-    twitterCredentials(1) = "2te2Z1yFvynXcp06rczg38tNAa1zY29iGPnSUArOT3d5BFI";
+    twitterCredentials(1) = "2te2Z1yFvynXcp06rczg38tNAa1zY29i5BFI";
     //accessToken
-    twitterCredentials(2) = "1063309301232660480-61DChczOivazJZTWodLfuRRW8gDNfJ";
+    twitterCredentials(2) = "10633093012326OivazJZTWodLfuRRW8gDNfJ";
     //accessTokenSecret
-    twitterCredentials(3) = "bFYPmpiWhFgOtdJGe95YyhOntxOQAmx698imO1N0xEYtF";
+    twitterCredentials(3) = "bFYPmpiWhFgOtdJGe95YyhmO1N0xEYtF";
 
     val appName = "TweeterStreamReader"
     val conf = new SparkConf()
