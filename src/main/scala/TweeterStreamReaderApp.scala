@@ -15,9 +15,9 @@ object TweeterStreamReaderApp {
 
     var twitterCredentials = new Array[String](4);
     //consumerKey
-    twitterCredentials(0) = "gA7xFE3S1QfXRkbZVTN55Uuzb";
+    twitterCredentials(0) = "gA7xFE3S1QfXVTN55Uuzb";
     //consumerSecret
-    twitterCredentials(1) = "2te2Z1yFvynXcp06rc2j3zg38tNAa1zY29iGPnSUArOT3d5BFI";
+    twitterCredentials(1) = "2te2Z1yFvynXcp06rczg38tNAa1zY29iGPnSUArOT3d5BFI";
     //accessToken
     twitterCredentials(2) = "1063309301232660480-61DChczOivazJZTWodLfuRRW8gDNfJ";
     //accessTokenSecret
